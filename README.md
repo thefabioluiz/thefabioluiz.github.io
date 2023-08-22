@@ -1,29 +1,22 @@
-# Análise de Dados / Data Analytics
+# Análise de Dados
 
-### Educação
-<p><b>Pontifícia Universidade Católica de Minas Gerais </b>/ Pós Graduação, Estatística para Ciência de Dados AGOSTO 2023 - SETEMBRO 2024, Online (ao vivo).
-</p>
+#### Habilidades técnicas: R, Python, SQL, Tableu, PowerBI, Excel
 
-<p><b>Universidade Presbiteriana Mackenzie </b>/ Pós Graduação, Gestão de Projetos
-JULHO 2017 - JULHO 2019,  SÃO PAULO - SP. Tema da monografia realizada: GESTÃO DE ESCOPO: Análise das origens de  mudanças no escopo e o impacto causado no projeto. 
-</p>
+## Educação
+- Pós Graduação, Estatística para Ciência de Dados | Pontifícia Universidade Católica de Minas Gerais (_Set 2024_)
+- Pós Graduação, Gestão de Projetos | Universidade Presbiteriana Mackenzie (_Jul 2019_ ) 
+- Graduação, Administração | Universidade Nove de Julho (_Dez 2012_)							       		
 
-<p><b>Uninove - Universidade Nove de Julho </b>/ Bacharelado em Administração, Administração de Empresas
-JANEIRO 2008 - DEZEMBRO 2012,  SÃO PAULO - SP. Trabalho de conclusão do curso, apresentação de estudo de caso com tema Gestão da Qualidade de vida no Varejo.
-</p>
-
-### Experiência de Trabalho
-
-#### Minascopy Nacional Ltda 
-Analista Comercial - FEVEREIRO 2015 - PRESENTE,  SÃO PAULO - SP<p></p>
+## Experiência de Trabalho
+**Analista Comercial - Minascopy Nacional Ltda (_Fev 2015 - Presente_)** 
 - Suporte a alta gerência em projetos de outsourcing de impressão de nível estadual, com forte participação em cliente do seguimento de varejo.
 - Suporte a equipe executiva comercial com pesquisas e insights para novos projetos.
 - Report mensal a alta gerência com análise descritiva de métricas de desempenho dos negócios realizados.
-  
-#### Minascopy Nacional Ltda
-Coordenador de almoxarifado - DEZEMBRO 2012 - FEVEREIRO 2015,  SÃO PAULO - SP<p></p>
+
+**Coordenador de almoxarifado - Minascopy Nacional Ltda (_Dez 2015 - Fev 2015_)** 
 - Recebimento de produtos de fornecedores e conferência de NF-e. 
 - Organização de estoque e envio de produtos (suprimentos, peças e máquinas) para clientes de todo Brasil.
 - Follow up de solicitações de clientes e entregas.
+  
 
-
+[Analise de Dados & Estatistca Blog](https://medium.com/@fabioluz.f22) 
