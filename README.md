@@ -1,5 +1,5 @@
-# Fabio Luiz
-## Análise de Dados / Data Analytics
+# Análise de Dados / Data Analytics
+
 ### Educação
 <p><b>Pontifícia Universidade Católica de Minas Gerais </b>/ Pós Graduação, Estatística para Ciência de Dados AGOSTO 2023 - SETEMBRO 2024, Online (ao vivo).
 </p>
