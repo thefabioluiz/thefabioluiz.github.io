@@ -13,7 +13,7 @@
 - Suporte a equipe executiva comercial com pesquisas e insights para novos projetos.
 - Report mensal a alta gerência com análise descritiva de métricas de desempenho dos negócios realizados.
 
-**Coordenador de almoxarifado - Minascopy Nacional Ltda (_Dez 2015 - Fev 2015_)** 
+**Coordenador de almoxarifado - Minascopy Nacional Ltda (_Dez 2012 - Fev 2015_)** 
 - Recebimento de produtos de fornecedores e conferência de NF-e. 
 - Organização de estoque e envio de produtos (suprimentos, peças e máquinas) para clientes de todo Brasil.
 - Follow up de solicitações de clientes e entregas.
